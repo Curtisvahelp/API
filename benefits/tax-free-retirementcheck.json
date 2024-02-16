@@ -1,0 +1,367 @@
+{
+  "name": "Which States Do Not Tax Military Retirement?",
+  "legend": [
+    "Exempt",
+    "Partially-Exempt",
+    "Non-Exempt"
+  ],
+  "states": [
+    {
+      "id": 1,
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "status": "Exempt",
+      "url": "https://www.revenue.alabama.gov/individual-corporate/income-exempt-from-alabama-income-taxation/"
+    },
+    {
+      "id": 2,
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "status": "Exempt",
+      "url": "https://www.commerce.alaska.gov/web/dcra/OfficeoftheStateAssessor/AlaskaTaxFacts.aspx"
+    },
+    {
+      "id": 3,
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "status": "Exempt",
+      "url": "https://azdor.gov/individuals/income-tax-filing-assistance/military-tax-filing"
+    },
+    {
+      "id": 4,
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "status": "Exempt",
+      "url": "https://arkansashouse.org/news/post/15170/veterans-in-arkansas"
+    },
+    {
+      "id": 5,
+      "name": "California",
+      "abbreviation": "CA",
+      "status": "Non-Exempt",
+      "url": "https://www.ftb.ca.gov/file/personal/filing-situations/military.html#:~:text=Retirement%20and%20disability-,Retirement,domiciled%20while%20on%20active%20duty."
+    },
+    {
+      "id": 6,
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "status": "Partially-Exempt",
+      "url": "https://tax.colorado.gov/income-tax-topics-military-servicemembers"
+    },
+    {
+      "id": 7,
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "status": "Exempt",
+      "url": "https://portal.ct.gov/DVA/Pages/Guide-to-Veteran-Benefits-in-Connecticut/Benefits"
+    },
+    {
+      "id": 8,
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "status": "Partially-Exempt",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=78925&legislationTypeId=1&docTypeId=2&legislationName=SB188"
+    },
+    {
+      "id": 9,
+      "name": "District Of Columbia",
+      "abbreviation": "DC",
+      "status": "Partially-Exempt",
+      "url": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1803.02"
+    },
+    {
+      "id": 10,
+      "name": "Florida",
+      "abbreviation": "FL",
+      "status": "Exempt",
+      "url": "https://www.stateofflorida.com/taxes/"
+    },
+    {
+      "id": 11,
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "status": "Partially-Exempt",
+      "url": "https://veterans.georgia.gov/military-retirement-income-tax-exemption"
+    },
+    {
+      "id": 12,
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "status": "Exempt",
+      "url": "https://tax.hawaii.gov"
+    },
+    {
+      "id": 13,
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "status": "Partially-Exempt",
+      "url": "https://tax.idaho.gov/wp-content/uploads/forms/EIN00046/EIN00046_03-01-2023.pdf#page=31"
+    },
+    {
+      "id": 14,
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "status": "Exempt",
+      "url": "https://tax.illinois.gov/questionsandanswers/answer.99.html"
+    },
+    {
+      "id": 15,
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "status": "Exempt",
+      "url": "https://iga.in.gov/legislative/2023/bills/house/1034/details"
+    },
+    {
+      "id": 16,
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "status": "Exempt",
+      "url": "https://tax.iowa.gov/military-retirement-benefits-exclusion-iowa-income-tax"
+    },
+    {
+      "id": 17,
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "status": "Exempt",
+      "url": "https://www.ksrevenue.gov/pdf/ia-36.pdf#search=military%20retirement/"
+    },
+    {
+      "id": 18,
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "status": "Partially-Exempt",
+      "url": "https://revenue.ky.gov/Individual/Pages/Military-Tax-Issues.aspx"
+    },
+    {
+      "id": 19,
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "status": "Exempt",
+      "url": "https://www.vetaffairs.la.gov/benefit/military-retiree-pay-tax-exemption/"
+    },
+    {
+      "id": 20,
+      "name": "Maine",
+      "abbreviation": "ME",
+      "status": "Exempt",
+      "url": "https://www.maine.gov/revenue/faq/individual-income-tax"
+    },
+    {
+      "id": 21,
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "status": "Partially-Exempt",
+      "url": "https://marylandtaxes.gov/individual/income/filing/"
+    },
+    {
+      "id": 22,
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "status": "Exempt",
+      "url": "https://www.mass.gov/info-details/mass-tax-information-for-military-personnel-and-their-spouses?_gl=1*1fju1qz*_ga*MjEyOTI4ODM3NC4xNjk1MTUyODI0*_ga_MCLPEGW7WM*MTY5NTE1MjgyOC4xLjAuMTY5NTE1MjgyOS4wLjAuMA..#military-pensions-"
+    },
+    {
+      "id": 23,
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "status": "Exempt",
+      "url": "https://www.michigan.gov/taxes/questions/iit/accordion/military/are-military-retirement-benefits-exempt-from-michigan-individual-income-tax"
+    },
+    {
+      "id": 24,
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "status": "Exempt",
+      "url": "https://www.revenue.state.mn.us/sites/default/files/2023-01/m1m_22.pdf"
+    },
+    {
+      "id": 25,
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "status": "Exempt",
+      "url": "https://www.dor.ms.gov/individual/individual-income-tax-faqs"
+    },
+    {
+      "id": 26,
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "status": "Exempt",
+      "url": "https://dor.mo.gov/forms/Military%20Reference%20Guide.pdf"
+    },
+    {
+      "id": 27,
+      "name": "Montana",
+      "abbreviation": "MT",
+      "status": "Partially-Exempt",
+      "url": "https://leg.mt.gov/bills/2023/billpdf/SB0104.pdf"
+    },
+    {
+      "id": 28,
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "status": "Exempt",
+      "url": "https://revenue.nebraska.gov/about/frequently-asked-questions/military-retirement-benefits-exclusion"
+    },
+    {
+      "id": 29,
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "status": "Exempt",
+      "url": "https://tax.nv.gov/FAQs/Information_About_Nevadas_Taxes_and_The_Department/"
+    },
+    {
+      "id": 30,
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "status": "Exempt",
+      "url": "https://www.dmavs.nh.gov/sites/g/files/ehbemt401/files/inline-documents/sonh/nh-state-veterans-benefits_2_0.pdf"
+    },
+    {
+      "id": 31,
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "status": "Exempt",
+      "url": "https://www.nj.gov/treasury/taxation/pdf/pubs/tgi-ee/git7.pdf"
+    },
+    {
+      "id": 32,
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "status": "Partially-Exempt",
+      "url": "https://www.tax.newmexico.gov/wp-content/uploads/2022/07/Tax-laws-take-effect.pdf"
+    },
+    {
+      "id": 33,
+      "name": "New York",
+      "abbreviation": "NY",
+      "status": "Exempt",
+      "url": "https://www.tax.ny.gov/pit/file/military_page.htm"
+    },
+    {
+      "id": 34,
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "status": "Exempt",
+      "url": "https://www.ncdor.gov/documents/important-notices/important-notice-north-carolina-enacts-new-deduction-certain-military-retirement-pay-and-survivor/open"
+    },
+    {
+      "id": 35,
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "status": "Exempt",
+      "url": "https://www.tax.nd.gov/sites/www/files/documents/guidelines/individual/military-service-members-guideline-2019.pdf"
+    },
+    {
+      "id": 36,
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "status": "Exempt",
+      "url": "https://tax.ohio.gov/individual/military/military-tax-provisions"
+    },
+    {
+      "id": 37,
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "status": "Exempt",
+      "url": "https://oksenate.gov/press-releases/military-pensions-now-exempt-state-income-tax-sen-brenda-stanley-says-retirees-can#:~:text=2022%20%7C%2011%3A24am-,Military%20pensions%20now%20exempt%20from%20state%20income%20tax%3B%20Sen.,Sen."
+    },
+    {
+      "id": 38,
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "status": "Partially-Exempt",
+      "url": "https://www.moaa.org/content/state-report-card/oregon/"
+    },
+    {
+      "id": 39,
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "status": "Exempt",
+      "url": "https://www.revenue.pa.gov/FormsandPublications/FormsforIndividuals/PIT/Documents/2021/2021_pa-40in.pdf"
+    },
+    {
+      "id": 40,
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "status": "Partially-Exempt",
+      "url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2022-08/ADV_2022_19_Pension_changes.pdf"
+    },
+    {
+      "id": 41,
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "status": "Exempt",
+      "url": "https://dor.sc.gov/resources-site/lawandpolicy/Advisory%20Opinions/RR22-11.pdf#search=military%20retirement"
+    },
+    {
+      "id": 42,
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "status": "Exempt",
+      "url": "https://dor.sd.gov/individuals/taxes/"
+    },
+    {
+      "id": 43,
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "status": "Exempt",
+      "url": "https://www.tn.gov/content/tn/revenue/taxes/hall-income-tax.html"
+    },
+    {
+      "id": 44,
+      "name": "Texas",
+      "abbreviation": "TX",
+      "status": "Exempt",
+      "url": "https://comptroller.texas.gov/taxes/"
+    },
+    {
+      "id": 45,
+      "name": "Utah",
+      "abbreviation": "UT",
+      "status": "Partially-Exempt",
+      "url": "https://le.utah.gov/xcode/Title59/Chapter10/59-10-S1043.html"
+    },
+    {
+      "id": 46,
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "status": "Partially-Exempt",
+      "url": "https://veterans.vermont.gov/benefits-and-services/veteran-benefits/tax-exemptions-veterans"
+    },
+    {
+      "id": 47,
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "status": "Partially-Exempt",
+      "url": "https://www.tax.virginia.gov/military-benefits-faq"
+    },
+    {
+      "id": 48,
+      "name": "Washington",
+      "abbreviation": "WA",
+      "status": "Exempt",
+      "url": "https://dor.wa.gov/taxes-rates/income-tax#:~:text=Washington%20state%20does%20not%20have,and%2For%20public%20utility%20tax."
+    },
+    {
+      "id": 49,
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "status": "Exempt",
+      "url": "https://veterans.wv.gov/Benefits/Pages/default.aspx"
+    },
+    {
+      "id": 50,
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "status": "Exempt",
+      "url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-military.aspx#mil1"
+    },
+    {
+      "id": 51,
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "status": "Exempt",
+      "url": "https://revenue.wyo.gov/divisions/excise-tax/excise-tax-faqs"
+    }
+  ]
+}
