@@ -16,7 +16,7 @@
       "id": 1,
       "name": "Alabama",
       "abbreviation": "AL",
-      "status": "Full-Partial-Exempt",
+      "status": "Full-Partial",
       "url": "https://www.revenue.alabama.gov/property-tax/homestead-exemptions/"
     },
     {
@@ -79,7 +79,7 @@
       "id": 10,
       "name": "Florida",
       "abbreviation": "FL",
-      "status": "Full-Partial-Exempt",
+      "status": "Full-Partial",
       "url": "https://floridavets.org/wp-content/uploads/2012/08/FDVA-Benefits-Guide.pdf?v=2020"
     },
     {
@@ -121,7 +121,7 @@
       "id": 16,
       "name": "Iowa",
       "abbreviation": "IA",
-      "status": "Full-Partial-Exempt",
+      "status": "Full-Partial",
       "url": "https://dva.iowa.gov/benefits-assistance/benefits"
     },
     {
@@ -191,14 +191,14 @@
       "id": 26,
       "name": "Missouri",
       "abbreviation": "MO",
-      "status": "Full-Partial-Exempt",
+      "status": "Full-Partial",
       "url": "https://dor.mo.gov/taxation/individual/tax-types/property-tax-credit/"
     },
     {
       "id": 27,
       "name": "Montana",
       "abbreviation": "MT",
-      "status": "Full-Partial-Exempt",
+      "status": "Full-Partial",
       "url": "https://montana.servicenowservices.com/citizen?id=kb_article_view&sysparm_article=KB0013224"
     },
     {
@@ -219,21 +219,21 @@
       "id": 30,
       "name": "New Hampshire",
       "abbreviation": "NH",
-      "status": "Full-Partial-Exempt",
+      "status": "Full-Partial",
       "url": "https://www.dmavs.nh.gov/veterans-services"
     },
     {
       "id": 31,
       "name": "New Jersey",
       "abbreviation": "NJ",
-      "status": "Full-Partial-Exempt",
+      "status": "Full-Partial",
       "url": "https://www.nj.gov/treasury/taxation/lpt/lpt-disabledvet.shtml"
     },
     {
       "id": 32,
       "name": "New Mexico",
       "abbreviation": "NM",
-      "status": "Full-Partial-Exempt",
+      "status": "Full-Partial",
       "url": "https://www.nmdvs.org/state-veteran-benefits/"
     },
     {
@@ -303,7 +303,7 @@
       "id": 42,
       "name": "South Dakota",
       "abbreviation": "SD",
-      "status": "Full-Partial-Exempt",
+      "status": "Full-Partial",
       "url": "https://vetaffairs.sd.gov/benefits/State/Property%20Taxes.aspx"
     },
     {
@@ -317,7 +317,7 @@
       "id": 44,
       "name": "Texas",
       "abbreviation": "TX",
-      "status": "Full-Partial-Exempt",
+      "status": "Full-Partial",
       "url": "https://comptroller.texas.gov/taxes/property-tax/exemptions/disabledvet-100-faq.php"
     },
     {
