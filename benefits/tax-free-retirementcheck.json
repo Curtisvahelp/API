@@ -1,9 +1,12 @@
 {
-  "name": "Which States Do Not Tax Military Retirement?",
+  "name": "States That Don't Tax Military Retirement",
+  "note": [],
   "legend": [
     "Exempt",
-    "Partially-Exempt",
-    "Non-Exempt"
+    "Partial-Exempt",
+    "Full & Partial",
+    "No State Level Prop. Tax",
+    "No-Exempt"
   ],
   "states": [
     {
@@ -38,14 +41,14 @@
       "id": 5,
       "name": "California",
       "abbreviation": "CA",
-      "status": "Non-Exempt",
+      "status": "No-Exempt",
       "url": "https://www.ftb.ca.gov/file/personal/filing-situations/military.html#:~:text=Retirement%20and%20disability-,Retirement,domiciled%20while%20on%20active%20duty."
     },
     {
       "id": 6,
       "name": "Colorado",
       "abbreviation": "CO",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://tax.colorado.gov/income-tax-topics-military-servicemembers"
     },
     {
@@ -59,14 +62,14 @@
       "id": 8,
       "name": "Delaware",
       "abbreviation": "DE",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=78925&legislationTypeId=1&docTypeId=2&legislationName=SB188"
     },
     {
       "id": 9,
       "name": "District Of Columbia",
       "abbreviation": "DC",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://code.dccouncil.gov/us/dc/council/code/sections/47-1803.02"
     },
     {
@@ -80,7 +83,7 @@
       "id": 11,
       "name": "Georgia",
       "abbreviation": "GA",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://veterans.georgia.gov/military-retirement-income-tax-exemption"
     },
     {
@@ -94,7 +97,7 @@
       "id": 13,
       "name": "Idaho",
       "abbreviation": "ID",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://tax.idaho.gov/wp-content/uploads/forms/EIN00046/EIN00046_03-01-2023.pdf#page=31"
     },
     {
@@ -129,7 +132,7 @@
       "id": 18,
       "name": "Kentucky",
       "abbreviation": "KY",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://revenue.ky.gov/Individual/Pages/Military-Tax-Issues.aspx"
     },
     {
@@ -150,7 +153,7 @@
       "id": 21,
       "name": "Maryland",
       "abbreviation": "MD",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://marylandtaxes.gov/individual/income/filing/"
     },
     {
@@ -192,7 +195,7 @@
       "id": 27,
       "name": "Montana",
       "abbreviation": "MT",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://leg.mt.gov/bills/2023/billpdf/SB0104.pdf"
     },
     {
@@ -227,7 +230,7 @@
       "id": 32,
       "name": "New Mexico",
       "abbreviation": "NM",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://www.tax.newmexico.gov/wp-content/uploads/2022/07/Tax-laws-take-effect.pdf"
     },
     {
@@ -269,7 +272,7 @@
       "id": 38,
       "name": "Oregon",
       "abbreviation": "OR",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://www.moaa.org/content/state-report-card/oregon/"
     },
     {
@@ -283,7 +286,7 @@
       "id": 40,
       "name": "Rhode Island",
       "abbreviation": "RI",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2022-08/ADV_2022_19_Pension_changes.pdf"
     },
     {
@@ -318,21 +321,21 @@
       "id": 45,
       "name": "Utah",
       "abbreviation": "UT",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://le.utah.gov/xcode/Title59/Chapter10/59-10-S1043.html"
     },
     {
       "id": 46,
       "name": "Vermont",
       "abbreviation": "VT",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://veterans.vermont.gov/benefits-and-services/veteran-benefits/tax-exemptions-veterans"
     },
     {
       "id": 47,
       "name": "Virginia",
       "abbreviation": "VA",
-      "status": "Partially-Exempt",
+      "status": "Partial-Exempt",
       "url": "https://www.tax.virginia.gov/military-benefits-faq"
     },
     {

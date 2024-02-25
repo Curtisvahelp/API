@@ -1,0 +1,373 @@
+{
+  "name": "States with Property Tax Exemptions for Permanent and Total Veterans",
+  "note": [
+    "Most exemptions only apply to the Veteran's primary residence and the Veteran must be a resident of the State. As always, ensure you read the reference to learn the full details!",
+    "Individual Counties in a State may still levy their own property taxes. Contact your local tax assessor’s office to learn about any local property tax credits."
+  ],
+  "legend": [
+    "Exempt",
+    "Partial Exempt",
+    "Full & Partial Exempt",
+    "No State Level Prop. Tax",
+    "No Exempt"
+  ],
+  "states": [
+    {
+      "id": 1,
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "status": "Full-Partial-Exempt",
+      "url": "https://www.revenue.alabama.gov/property-tax/homestead-exemptions/"
+    },
+    {
+      "id": 2,
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "status": "Partial-Exempt",
+      "url": "https://veterans.alaska.gov/real-estate/"
+    },
+    {
+      "id": 3,
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "status": "No-State-Level-Prop.-Tax",
+      "url": "https://dvs.az.gov/sites/default/files/2022-05/Arizona-State-Veteran-Benefits-Guide-2021-10a.pdf"
+    },
+    {
+      "id": 4,
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "status": "Exempt",
+      "url": "https://law.justia.com/codes/arkansas/2020/title-26/subtitle-1/chapter-3/subchapter-3/section-26-3-306/"
+    },
+    {
+      "id": 5,
+      "name": "California",
+      "abbreviation": "CA",
+      "status": "Partial-Exempt",
+      "url": "https://www.boe.ca.gov/proptaxes/dv_exemption.htm#Description"
+    },
+    {
+      "id": 6,
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "status": "Partial-Exempt",
+      "url": "https://treasury.colorado.gov/senior-and-veteran-property-tax-programs"
+    },
+    {
+      "id": 7,
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "status": "Partial-Exempt",
+      "url": "https://portal.ct.gov/DVA/Pages/Property-Tax-Exemptions"
+    },
+    {
+      "id": 8,
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "status": "No-Exempt",
+      "url": "https://finance.delaware.gov/disabled-veterans/"
+    },
+    {
+      "id": 9,
+      "name": "District Of Columbia",
+      "abbreviation": "DC",
+      "status": "Partial-Exempt",
+      "url": "https://otr.cfo.dc.gov/release/veterans-homestead-deduction-starts-october-1-2022"
+    },
+    {
+      "id": 10,
+      "name": "Florida",
+      "abbreviation": "FL",
+      "status": "Full-Partial-Exempt",
+      "url": "https://floridavets.org/wp-content/uploads/2012/08/FDVA-Benefits-Guide.pdf?v=2020"
+    },
+    {
+      "id": 11,
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "status": "Partial-Exempt",
+      "url": "https://veterans.georgia.gov/disabled-veteran-homestead-tax-exemption"
+    },
+    {
+      "id": 12,
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "status": "Partial-Exempt",
+      "url": "https://www.hawaiicounty.gov/home/showpublisheddocument/302323/637846766643770000"
+    },
+    {
+      "id": 13,
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "status": "Partial-Exempt",
+      "url": "https://tax.idaho.gov/wp-content/uploads/pubs/EBR00067/EBR00067_12-05-2023.pdf"
+    },
+    {
+      "id": 14,
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "status": "Partial-Exempt",
+      "url": "https://tax.illinois.gov/localgovernments/property/taxrelief.html"
+    },
+    {
+      "id": 15,
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "status": "Partial-Exempt",
+      "url": "https://www.in.gov/dva/state-of-indiana-benefits-and-services/property-tax-deductions/"
+    },
+    {
+      "id": 16,
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "status": "Full-Partial-Exempt",
+      "url": "https://dva.iowa.gov/benefits-assistance/benefits"
+    },
+    {
+      "id": 17,
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "status": "Partial-Exempt",
+      "url": "https://www.ksrevenue.org/faqs-taxhomestead.html"
+    },
+    {
+      "id": 18,
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "status": "Partial-Exempt",
+      "url": "https://revenue.ky.gov/Property/Residential-Farm-Commercial-Property/Pages/Homestead-Exemption.aspx"
+    },
+    {
+      "id": 19,
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "status": "Partial-Exempt",
+      "url": "http://legis.la.gov/Legis/Law.aspx?d=206551"
+    },
+    {
+      "id": 20,
+      "name": "Maine",
+      "abbreviation": "ME",
+      "status": "Partial-Exempt",
+      "url": "https://www.maine.gov/revenue/tax-return-forms/property-tax"
+    },
+    {
+      "id": 21,
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "status": "Partial-Exempt",
+      "url": "https://veterans.maryland.gov/maryland-tax-benefits/"
+    },
+    {
+      "id": 22,
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "status": "Partial-Exempt",
+      "url": "https://law.justia.com/codes/massachusetts/2021/part-i/title-ix/chapter-59/section-5/"
+    },
+    {
+      "id": 23,
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "status": "Exempt",
+      "url": "https://www.michigan.gov/documents/treasury/PA161of2013DisabledVeteransExemption_440116_7.pdf"
+    },
+    {
+      "id": 24,
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "status": "Partial-Exempt",
+      "url": "https://www.house.mn.gov/hrd/pubs/ss/ssdvhve.pdf"
+    },
+    {
+      "id": 25,
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "status": "Partial-Exempt",
+      "url": "https://www.msva.ms.gov/state-benefits"
+    },
+    {
+      "id": 26,
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "status": "Full-Partial-Exempt",
+      "url": "https://dor.mo.gov/taxation/individual/tax-types/property-tax-credit/"
+    },
+    {
+      "id": 27,
+      "name": "Montana",
+      "abbreviation": "MT",
+      "status": "Full-Partial-Exempt",
+      "url": "https://montana.servicenowservices.com/citizen?id=kb_article_view&sysparm_article=KB0013224"
+    },
+    {
+      "id": 28,
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "status": "Exempt",
+      "url": "https://revenue.nebraska.gov/PAD/homestead-exemption"
+    },
+    {
+      "id": 29,
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "status": "Partial-Exempt",
+      "url": "https://www.clarkcountynv.gov/government/assessor/exemption.php"
+    },
+    {
+      "id": 30,
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "status": "Full-Partial-Exempt",
+      "url": "https://www.dmavs.nh.gov/veterans-services"
+    },
+    {
+      "id": 31,
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "status": "Full-Partial-Exempt",
+      "url": "https://www.nj.gov/treasury/taxation/lpt/lpt-disabledvet.shtml"
+    },
+    {
+      "id": 32,
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "status": "Full-Partial-Exempt",
+      "url": "https://www.nmdvs.org/state-veteran-benefits/"
+    },
+    {
+      "id": 33,
+      "name": "New York",
+      "abbreviation": "NY",
+      "status": "Partial-Exempt",
+      "url": "https://veterans.ny.gov/property-tax-exemptions-veterans"
+    },
+    {
+      "id": 34,
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "status": "Partial-Exempt",
+      "url": "https://www.milvets.nc.gov/benefits-services/veterans-property-tax-relief"
+    },
+    {
+      "id": 35,
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "status": "Partial-Exempt",
+      "url": "https://www.tax.nd.gov/tax-exemptions-credits/property-tax-credits-exemptions"
+    },
+    {
+      "id": 36,
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "status": "Exempt",
+      "url": "https://tax.ohio.gov/static/government/bulletin23.pdf"
+    },
+    {
+      "id": 37,
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "status": "Exempt",
+      "url": "https://okpolicy.org/ad-valorem-exemptions-property-tax-exemptions/"
+    },
+    {
+      "id": 38,
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "status": "Partial-Exempt",
+      "url": "https://www.oregon.gov/DOR/forms/FormsPubs/veteran-spouse-exemption_310-676.pdf"
+    },
+    {
+      "id": 39,
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "status": "Exempt",
+      "url": "https://www.dmva.pa.gov/Veterans/Benefits/Pages/RETX.aspx"
+    },
+    {
+      "id": 40,
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "status": "Partial-Exempt",
+      "url": "https://municipalfinance.ri.gov/sites/g/files/xkgbur546/files/documents/data/exemptions/Veterans-Senior-Exemptions-Report.pdf"
+    },
+    {
+      "id": 41,
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "status": "Exempt",
+      "url": "https://dor.sc.gov/resources-site/publications/Publications/Property-Exemptions-for-Vets.pdf"
+    },
+    {
+      "id": 42,
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "status": "Full-Partial-Exempt",
+      "url": "https://vetaffairs.sd.gov/benefits/State/Property%20Taxes.aspx"
+    },
+    {
+      "id": 43,
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "status": "Partial-Exempt",
+      "url": "https://www.tn.gov/veteran/veteran-benefits/tn-state-benefits/homeowners/property-tax-relief-for-disabled-veterans.html"
+    },
+    {
+      "id": 44,
+      "name": "Texas",
+      "abbreviation": "TX",
+      "status": "Full-Partial-Exempt",
+      "url": "https://comptroller.texas.gov/taxes/property-tax/exemptions/disabledvet-100-faq.php"
+    },
+    {
+      "id": 45,
+      "name": "Utah",
+      "abbreviation": "UT",
+      "status": "Partial-Exempt",
+      "url": "https://veterans.utah.gov/wp-content/uploads/2021/10/benefitBookletRedesign2021.pdf"
+    },
+    {
+      "id": 46,
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "status": "Partial-Exempt",
+      "url": "https://tax.vermont.gov/sites/tax/files/documents/FS-1003.pdf"
+    },
+    {
+      "id": 47,
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "status": "Exempt",
+      "url": "https://www.dvs.virginia.gov/benefits/real-estate-tax-exemption"
+    },
+    {
+      "id": 48,
+      "name": "Washington",
+      "abbreviation": "WA",
+      "status": "Partial-Exempt",
+      "url": "https://www.dva.wa.gov/veterans-their-families/veterans-benefits/housing-resources/property-tax-relief"
+    },
+    {
+      "id": 49,
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "status": "Partial-Exempt",
+      "url": "http://www.wvseniorservices.gov/Portals/0/pdf/HomesteadExemption.pdf"
+    },
+    {
+      "id": 50,
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "status": "Exempt",
+      "url": "https://docs.legis.wisconsin.gov/statutes/statutes/71/i/07/6e"
+    },
+    {
+      "id": 51,
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "status": "Partial-Exempt",
+      "url": "https://wyo-prop-div.wyo.gov/tax-relief"
+    }
+  ]
+}
