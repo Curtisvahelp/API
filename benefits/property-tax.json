@@ -8,7 +8,7 @@
     "Exempt",
     "Partial Exempt",
     "Full & Partial Exempt",
-    "No State Level Prop. Tax",
+    "No State Tax",
     "No Exempt"
   ],
   "states": [
@@ -30,7 +30,7 @@
       "id": 3,
       "name": "Arizona",
       "abbreviation": "AZ",
-      "status": "No-State-Level-Prop.-Tax",
+      "status": "No-State-Tax",
       "url": "https://dvs.az.gov/sites/default/files/2022-05/Arizona-State-Veteran-Benefits-Guide-2021-10a.pdf"
     },
     {
