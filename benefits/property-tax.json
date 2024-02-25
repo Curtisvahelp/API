@@ -6,10 +6,10 @@
   ],
   "legend": [
     "Exempt",
-    "Partial Exempt",
-    "Full & Partial Exempt",
-    "No State Tax",
-    "No Exempt"
+    "Partial-Exempt",
+    "Full-Partial",
+    "No-State-Tax",
+    "No-Exempt"
   ],
   "states": [
     {
