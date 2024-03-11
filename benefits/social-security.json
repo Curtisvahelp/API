@@ -1,0 +1,373 @@
+{
+  "name": "States with Property Tax Exemptions",
+  "note": [
+    "Most exemptions only apply to the Veteran's primary residence and the Veteran must be a resident of the State. As always, ensure you read the reference to learn the full details!",
+    "Individual Counties in a State may still levy their own property taxes. Contact your local tax assessor’s office to learn about any local property tax credits."
+  ],
+  "legend": [
+    "Exempt",
+    "Expt-Inc-Or-Age",
+    "Federal-Tax",
+    "State-Tax",
+    "No-Inc-Tax"
+  ],
+  "states": [
+    {
+      "id": 1,
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "status": "Exempt",
+      "url": "https://www.revenue.alabama.gov/individual-corporate/income-exempt-from-alabama-income-taxation/"
+    },
+    {
+      "id": 2,
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "status": "No-Inc-Tax",
+      "url": "https://smartasset.com/retirement/alaska-retirement-taxes#:~:text=Alaska%20has%20no%20state%20income,no%20estate%20or%20inheritance%20tax."
+    },
+    {
+      "id": 3,
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "status": "Exempt",
+      "url": "https://states.aarp.org/arizona/state-tax-guide#:~:text=Arizona%20doesn%27t%20tax%20Social,total%20income%20exceeds%20certain%20thresholds."
+    },
+    {
+      "id": 4,
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "status": "Exempt",
+      "url": "https://smartasset.com/retirement/arkansas-retirement-taxes#:~:text=Arkansas%20does%20not%20tax%20Social,taxes%20in%20Arkansas%20are%20high."
+    },
+    {
+      "id": 5,
+      "name": "California",
+      "abbreviation": "CA",
+      "status": "Exempt",
+      "url": "https://www.taxes.ca.gov/Income_Tax/specialind.html#:~:text=California%20does%20not%20tax%20social,partially%20taxable%20under%20federal%20law."
+    },
+    {
+      "id": 6,
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "status": "Expt-Inc-Or-Age",
+      "url": "https://leg.colorado.gov/sites/default/files/documents/2021A/bills/fn/2021a_hb1311_r1.pdf"
+    },
+    {
+      "id": 7,
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "status": "Expt-Inc-Or-Age",
+      "url": "https://www.cga.ct.gov/2022/rpt/pdf/2022-R-0099.pdf"
+    },
+    {
+      "id": 8,
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "status": "Exempt",
+      "url": "https://revenue.delaware.gov/frequently-asked-questions/personal-income-tax-faqs/"
+    },
+    {
+      "id": 9,
+      "name": "District Of Columbia",
+      "abbreviation": "DC",
+      "status": "Exempt",
+      "url": "https://smartasset.com/retirement/district-of-columbia-retirement-taxes#districtofcolumbia"
+    },
+    {
+      "id": 10,
+      "name": "Florida",
+      "abbreviation": "FL",
+      "status": "No-Inc-Tax",
+      "url": "https://states.aarp.org/florida/state-taxes-guide"
+    },
+    {
+      "id": 11,
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "status": "Exempt",
+      "url": "https://dor.georgia.gov/retirees-faq#:~:text=Does%20Georgia%20tax%20Social%20Security,schedule%201%20of%20Form%20500."
+    },
+    {
+      "id": 12,
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "status": "Exempt",
+      "url": "https://smartasset.com/retirement/hawaii-retirement-taxes"
+    },
+    {
+      "id": 13,
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "status": "Exempt",
+      "url": "https://tax.idaho.gov/taxes/income-tax/individual-income/specific-guidance-for-individual-income-tax/specific-guidance-for-individuals-seniors-and-retirees/#:~:text=Idaho%20Source%20Income.-,Social%20Security%20benefits,aren%27t%20taxable%20in%20Idaho."
+    },
+    {
+      "id": 14,
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "status": "Exempt",
+      "url": "https://tax.illinois.gov/questionsandanswers/answer.99.html"
+    },
+    {
+      "id": 15,
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "status": "Exempt",
+      "url": "https://www.in.gov/dor/files/ib26.pdf"
+    },
+    {
+      "id": 16,
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "status": "Expt-Inc-Or-Age",
+      "url": "https://tax.iowa.gov/expanded-instructions/reportable-social-security-benefits-2022#:~:text=Iowa%20does%20not%20tax%20Social%20Security%20benefits."
+    },
+    {
+      "id": 17,
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "status": "Expt-Inc-Or-Age",
+      "url": "https://www.ksrevenue.gov/faqs-taxii.html"
+    },
+    {
+      "id": 18,
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "status": "Exempt",
+      "url": "https://smartasset.com/retirement/kentucky-retirement-taxes#:~:text=Kentucky%20fully%20exempts%20all%20Social,also%20has%20an%20inheritance%20tax."
+    },
+    {
+      "id": 19,
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "status": "Exempt",
+      "url": "https://www.revenue.louisiana.gov/faq/Details/1216"
+    },
+    {
+      "id": 20,
+      "name": "Maine",
+      "abbreviation": "ME",
+      "status": "Exempt",
+      "url": "https://www.kiplinger.com/state-by-state-guide-taxes/maine#:~:text=Maine%20Tax%20on%20Retirement%20Benefits,increases%20to%20%2435%2C000%20in%202024."
+    },
+    {
+      "id": 21,
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "status": "Exempt",
+      "url": "https://www.marylandtaxes.gov/forms/Personal_Tax_Tips/tip51.pdf"
+    },
+    {
+      "id": 22,
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "status": "Exempt",
+      "url": "https://states.aarp.org/massachusetts/state-taxes-guide"
+    },
+    {
+      "id": 23,
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "status": "Exempt",
+      "url": "https://local.aarp.org/news/michigan-state-tax-guide-what-youll-pay-in-2024-mi-2024-03-11.html#:~:text=Michigan%20is%20moderately%20tax%2Dfriendly,tax%20compared%20with%20other%20states."
+    },
+    {
+      "id": 24,
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "status": "Expt-Inc-Or-Age",
+      "url": "https://www.house.mn.gov/hrd/issinfo/sstaxes.aspx"
+    },
+    {
+      "id": 25,
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "status": "Exempt",
+      "url": "https://www.dor.ms.gov/individual/individual-income-tax-faqs#:~:text=No.,subject%20to%20Mississippi%27s%20income%20tax."
+    },
+    {
+      "id": 26,
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "status": "Expt-Inc-Or-Age",
+      "url": "https://smartasset.com/retirement/missouri-retirement-taxes#:~:text=is%20above%20average.-,Is%20Social%20Security%20taxable%20in%20Missouri%3F,taxes%20on%20Social%20Security%20benefits."
+    },
+    {
+      "id": 27,
+      "name": "Montana",
+      "abbreviation": "MT",
+      "status": "State-Tax",
+      "url": "https://montana.servicenowservices.com/citizen?id=kb_article_view&sysparm_article=KB0013207"
+    },
+    {
+      "id": 28,
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "status": "Expt-Inc-Or-Age",
+      "url": "https://www.kiplinger.com/state-by-state-guide-taxes/nebraska#:~:text=Nebraska%20tax%20on%20retirement%20income,Retirement%20benefits%20are%20tax%2Dexempt."
+    },
+    {
+      "id": 29,
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "status": "No-Inc-Tax",
+      "url": "https://smartasset.com/retirement/nevada-retirement-taxes#:~:text=Nevada%20is%20very%20tax%2Dfriendly,state%20tax%20rate%20is%200.0%25."
+    },
+    {
+      "id": 30,
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "status": "Exempt",
+      "url": "https://smartasset.com/retirement/new-hampshire-retirement-taxes#:~:text=age%20of%2065.-,Is%20Social%20Security%20taxable%20in%20New%20Hampshire%3F,subject%20to%20federal%20taxes%2C%20however."
+    },
+    {
+      "id": 31,
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "status": "Exempt",
+      "url": "https://www.nj.gov/treasury/taxation/documents/pdf/guides/Retirement-Guide.pdf"
+    },
+    {
+      "id": 32,
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "status": "State-Tax",
+      "url": "https://www.tax.newmexico.gov/social-security-income-tax-exemption/#:~:text=Beginning%20with%20tax%20year%202022,Mexico%20Personal%20Income%20Tax%20returns."
+    },
+    {
+      "id": 33,
+      "name": "New York",
+      "abbreviation": "NY",
+      "status": "Exempt",
+      "url": "https://smartasset.com/retirement/new-york-retirement-taxes#:~:text=In%20New%20York%2C%20all%20Social,is%20deductible%20up%20to%20%2420%2C000."
+    },
+    {
+      "id": 34,
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "status": "Exempt",
+      "url": "https://www.ncdor.gov/taxes-forms/individual-income-tax/social-security-and-railroad-retirement-benefits"
+    },
+    {
+      "id": 35,
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "status": "Expt-Inc-Or-Age",
+      "url": "https://smartasset.com/retirement/north-dakota-retirement-taxes#:~:text=median%20home%20values.-,Is%20Social%20Security%20taxable%20in%20North%20Dakota%3F,since%20the%202021%20tax%20year."
+    },
+    {
+      "id": 36,
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "status": "Exempt",
+      "url": "https://tax.ohio.gov/help-center/faqs/income-retirement-income"
+    },
+    {
+      "id": 37,
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "status": "Exempt",
+      "url": "https://www.okdrs.gov/guide/social-security-income-when-it-taxable-individual"
+    },
+    {
+      "id": 38,
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "status": "Exempt",
+      "url": "https://www.oregon.gov/dor/forms/FormsPubs/publication-or-pit-vet_101-009.pdf"
+    },
+    {
+      "id": 39,
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "status": "Exempt",
+      "url": "https://www.actsretirement.org/retirement-resources/resources-advice/finance-saving-money/tax-benefits-for-retirees/pennsylvania/#:~:text=Social%20Security%20income%20is%20not,rate%20in%20the%20United%20States."
+    },
+    {
+      "id": 40,
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "status": "Expt-Inc-Or-Age",
+      "url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/notice/Pub_2021_02_pension_income_guide_04_06_21.pdf"
+    },
+    {
+      "id": 41,
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "status": "Exempt",
+      "url": "https://dor.sc.gov/resources-site/media-site/Pages/SCDOR-offers-tax-tips-for-retirees-and-those-65-or-older.aspx"
+    },
+    {
+      "id": 42,
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "status": "No-Inc-Tax",
+      "url": "https://smartasset.com/retirement/south-dakota-retirement-taxes#:~:text=are%20fairly%20cheap.-,Is%20Social%20Security%20taxable%20in%20South%20Dakota%3F,investment%20income%20and%20so%20on."
+    },
+    {
+      "id": 43,
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "status": "Exempt",
+      "url": "https://smartasset.com/retirement/tennessee-retirement-taxes"
+    },
+    {
+      "id": 44,
+      "name": "Texas",
+      "abbreviation": "TX",
+      "status": "No-Inc-Tax",
+      "url": "https://smartasset.com/retirement/texas-retirement-taxes#:~:text=Is%20Texas%20tax%2Dfriendly%20for,the%20state%20level%20in%20Texas."
+    },
+    {
+      "id": 45,
+      "name": "Utah",
+      "abbreviation": "UT",
+      "status": "Federal-Tax",
+      "url": "https://le.utah.gov/~2023/bills/static/HB0054.html"
+    },
+    {
+      "id": 46,
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "status": "Expt-Inc-Or-Age",
+      "url": "https://tax.vermont.gov/individuals/income-tax-returns/social-security-exemption"
+    },
+    {
+      "id": 47,
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "status": "Exempt",
+      "url": "https://www.tax.virginia.gov/news/virginia-taxes-and-your-retirement#:~:text=Virginia%20does%20not%20tax%20Social,to%20Tier%201%20Railroad%20Retirement."
+    },
+    {
+      "id": 48,
+      "name": "Washington",
+      "abbreviation": "WA",
+      "status": "No-Inc-Tax",
+      "url": "https://smartasset.com/retirement/washington-retirement-taxes#:~:text=Washington%20State%20has%20no%20income,tax%20rates%20are%20about%20average."
+    },
+    {
+      "id": 49,
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "status": "State-Tax",
+      "url": "https://tax.wv.gov/Documents/TSD/tsd413.pdf"
+    },
+    {
+      "id": 50,
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "status": "Exempt",
+      "url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-retired.aspx#:~:text=Wisconsin%20does%20not%20tax%20social%20security%20benefits."
+    },
+    {
+      "id": 51,
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "status": "No-Inc-Tax",
+      "url": "https://wyo-prop-div.wyo.gov/tax-relief"
+    }
+  ]
+}

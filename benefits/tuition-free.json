@@ -13,105 +13,105 @@
       "name": "Alabama",
       "abbreviation": "AL",
       "status": "Vet-and-Dep",
-      "url": "https://www.revenue.alabama.gov/property-tax/homestead-exemptions/"
+      "url": "https://va.alabama.gov/wp-content/uploads/2019/04/scholarship.pdf"
     },
     {
       "id": 2,
       "name": "Alaska",
       "abbreviation": "AK",
       "status": "Dep-Only",
-      "url": "https://veterans.alaska.gov/real-estate/"
+      "url": "https://veterans.alaska.gov/media/rx0cpmtm/veterans-benefits-2022-web-version.pdf"
     },
     {
       "id": 3,
       "name": "Arizona",
       "abbreviation": "AZ",
       "status": "Vet-and-Dep",
-      "url": "https://dvs.az.gov/sites/default/files/2022-05/Arizona-State-Veteran-Benefits-Guide-2021-10a.pdf"
+      "url": "https://dvs.az.gov/services/education/tuition-waiver-and-verification-form"
     },
     {
       "id": 4,
       "name": "Arkansas",
       "abbreviation": "AR",
       "status": "Dep-Only",
-      "url": "https://law.justia.com/codes/arkansas/2020/title-26/subtitle-1/chapter-3/subchapter-3/section-26-3-306/"
+      "url": "https://law.justia.com/codes/arkansas/2020/title-6/subtitle-6/chapter-82/subchapter-6/section-6-82-601/"
     },
     {
       "id": 5,
       "name": "California",
       "abbreviation": "CA",
       "status": "Vet-and-Dep",
-      "url": "https://www.boe.ca.gov/proptaxes/dv_exemption.htm#Description"
+      "url": "https://www.calvet.ca.gov/VetServices/Pages/College-Fee-Waiver.aspx"
     },
     {
       "id": 6,
       "name": "Colorado",
       "abbreviation": "CO",
       "status": "Nothing",
-      "url": "https://treasury.colorado.gov/senior-and-veteran-property-tax-programs"
+      "url": "https://vets.colorado.gov/services/education"
     },
     {
       "id": 7,
       "name": "Connecticut",
       "abbreviation": "CT",
       "status": "Vet-and-Dep",
-      "url": "https://portal.ct.gov/DVA/Pages/Property-Tax-Exemptions"
+      "url": "https://law.justia.com/codes/connecticut/2020/title-10a/chapter-185b/section-10a-77-formerly-sec-10-38h/"
     },
     {
       "id": 8,
       "name": "Delaware",
       "abbreviation": "DE",
       "status": "Dep-Only",
-      "url": "https://finance.delaware.gov/disabled-veterans/"
+      "url": "https://law.justia.com/codes/delaware/2021/title-14/chapter-34/subchapter-vi/"
     },
     {
       "id": 9,
       "name": "District Of Columbia",
       "abbreviation": "DC",
       "status": "Nothing",
-      "url": "https://otr.cfo.dc.gov/release/veterans-homestead-deduction-starts-october-1-2022"
+      "url": "https://osse.dc.gov/dctag"
     },
     {
       "id": 10,
       "name": "Florida",
       "abbreviation": "FL",
       "status": "Vet-and-Dep",
-      "url": "https://floridavets.org/wp-content/uploads/2012/08/FDVA-Benefits-Guide.pdf?v=2020"
+      "url": "https://www.floridastudentfinancialaidsg.org/PDF/factsheets/CSDDV.pdf"
     },
     {
       "id": 11,
       "name": "Georgia",
       "abbreviation": "GA",
       "status": "Nothing",
-      "url": "https://veterans.georgia.gov/disabled-veteran-homestead-tax-exemption"
+      "url": "https://veterans.georgia.gov/services/education-training/educational-benefits"
     },
     {
       "id": 12,
       "name": "Hawaii",
       "abbreviation": "HI",
       "status": "Nothing",
-      "url": "https://www.hawaiicounty.gov/home/showpublisheddocument/302323/637846766643770000"
+      "url": "https://dod.hawaii.gov/ovs/benefits-and-services/"
     },
     {
       "id": 13,
       "name": "Idaho",
       "abbreviation": "ID",
       "status": "Nothing",
-      "url": "https://tax.idaho.gov/wp-content/uploads/pubs/EBR00067/EBR00067_12-05-2023.pdf"
+      "url": "https://veterans.idaho.gov/wp-content/uploads/2023/03/BOOKLET-VA-Education-Benefits-Overview_2023.pdf"
     },
     {
       "id": 14,
       "name": "Illinois",
       "abbreviation": "IL",
       "status": "Vet-and-Dep",
-      "url": "https://tax.illinois.gov/localgovernments/property/taxrelief.html"
+      "url": "https://www2.illinois.gov/veterans/services%20benefits/Pages/education.aspx"
     },
     {
       "id": 15,
       "name": "Indiana",
       "abbreviation": "IN",
       "status": "Vet-and-Dep",
-      "url": "https://www.in.gov/dva/state-of-indiana-benefits-and-services/property-tax-deductions/"
+      "url": "https://www.in.gov/che/state-financial-aid/state-financial-aid-by-program/#Financial_Aid_for_Military_and_Public_Safety_Officers"
     },
     {
       "id": 16,
@@ -125,56 +125,56 @@
       "name": "Kansas",
       "abbreviation": "KS",
       "status": "Vet-and-Dep",
-      "url": "https://www.ksrevenue.org/faqs-taxhomestead.html"
+      "url": "https://law.justia.com/codes/kansas/2021/chapter-75/article-43/section-75-4364/"
     },
     {
       "id": 18,
       "name": "Kentucky",
       "abbreviation": "KY",
       "status": "Dep-Only",
-      "url": "https://revenue.ky.gov/Property/Residential-Farm-Commercial-Property/Pages/Homestead-Exemption.aspx"
+      "url": "https://veterans.ky.gov/Benefits/Pages/Education-for-Veterans-in-Kentucky.aspx"
     },
     {
       "id": 19,
       "name": "Louisiana",
       "abbreviation": "LA",
       "status": "Dep-Only",
-      "url": "http://legis.la.gov/Legis/Law.aspx?d=206551"
+      "url": "https://law.justia.com/codes/louisiana/2021/revised-statutes/title-29/rs-288/"
     },
     {
       "id": 20,
       "name": "Maine",
       "abbreviation": "ME",
       "status": "Dep-Only",
-      "url": "https://www.maine.gov/revenue/tax-return-forms/property-tax"
+      "url": "https://law.justia.com/codes/maine/2021/title-37-b/chapter-7/section-505/"
     },
     {
       "id": 21,
       "name": "Maryland",
       "abbreviation": "MD",
       "status": "Vet-and-Dep",
-      "url": "https://veterans.maryland.gov/maryland-tax-benefits/"
+      "url": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_conroy.aspx"
     },
     {
       "id": 22,
       "name": "Massachusetts",
       "abbreviation": "MA",
       "status": "Vet-Only",
-      "url": "https://law.justia.com/codes/massachusetts/2021/part-i/title-ix/chapter-59/section-5/"
+      "url": "https://www.mass.edu/forstufam/veterans/financialaid.asp"
     },
     {
       "id": 23,
       "name": "Michigan",
       "abbreviation": "MI",
       "status": "Nothing",
-      "url": "https://www.michigan.gov/documents/treasury/PA161of2013DisabledVeteransExemption_440116_7.pdf"
+      "url": "https://www.michigan.gov/mvaa/education/fam-ben"
     },
     {
       "id": 24,
       "name": "Minnesota",
       "abbreviation": "MN",
       "status": "Dep-Only",
-      "url": "https://www.house.mn.gov/hrd/pubs/ss/ssdvhve.pdf"
+      "url": "https://mn.gov/mdva/resources/education/survivingspousebenefit.jsp"
     },
     {
       "id": 25,
@@ -188,182 +188,182 @@
       "name": "Missouri",
       "abbreviation": "MO",
       "status": "Nothing",
-      "url": "https://dor.mo.gov/taxation/individual/tax-types/property-tax-credit/"
+      "url": "https://dhewd.mo.gov/ppc/grants/wartimevetsurvivor.php"
     },
     {
       "id": 27,
       "name": "Montana",
       "abbreviation": "MT",
       "status": "Vet-and-Dep",
-      "url": "https://montana.servicenowservices.com/citizen?id=kb_article_view&sysparm_article=KB0013224"
+      "url": "http://www.mus.edu/borpol/bor900/940-13.pdf"
     },
     {
       "id": 28,
       "name": "Nebraska",
       "abbreviation": "NE",
       "status": "Dep-Only",
-      "url": "https://revenue.nebraska.gov/PAD/homestead-exemption"
+      "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=80-411"
     },
     {
       "id": 29,
       "name": "Nevada",
       "abbreviation": "NV",
       "status": "Vet-and-Dep",
-      "url": "https://www.clarkcountynv.gov/government/assessor/exemption.php"
+      "url": "https://nshe.nevada.edu/leadership-policy/administration/academic-student-affairs/students/student-veterans/"
     },
     {
       "id": 30,
       "name": "New Hampshire",
       "abbreviation": "NH",
       "status": "Dep-Only",
-      "url": "https://www.dmavs.nh.gov/veterans-services"
+      "url": "https://law.justia.com/codes/new-hampshire/2020/title-xv/title-188-f/section-188-f-15/"
     },
     {
       "id": 31,
       "name": "New Jersey",
       "abbreviation": "NJ",
       "status": "Dep-Only",
-      "url": "https://www.nj.gov/treasury/taxation/lpt/lpt-disabledvet.shtml"
+      "url": "https://www.nj.gov/military/veterans/benefits-resources/"
     },
     {
       "id": 32,
       "name": "New Mexico",
       "abbreviation": "NM",
       "status": "Vet-and-Dep",
-      "url": "https://www.nmdvs.org/state-veteran-benefits/"
+      "url": "https://hed.state.nm.us/financial-aid/scholarships/vietnam-veterans"
     },
     {
       "id": 33,
       "name": "New York",
       "abbreviation": "NY",
       "status": "Vet-and-Dep",
-      "url": "https://veterans.ny.gov/property-tax-exemptions-veterans"
+      "url": "https://www.hesc.ny.gov/pay-for-college/financial-aid/types-of-financial-aid/nys-grants-scholarships-awards/veterans-tuition-awards.html"
     },
     {
       "id": 34,
       "name": "North Carolina",
       "abbreviation": "NC",
       "status": "Dep-Only",
-      "url": "https://www.milvets.nc.gov/benefits-services/veterans-property-tax-relief"
+      "url": "https://law.justia.com/codes/north-carolina/2013/chapter-165/article-4/section-165-22"
     },
     {
       "id": 35,
       "name": "North Dakota",
       "abbreviation": "ND",
       "status": "Dep-Only",
-      "url": "https://www.tax.nd.gov/tax-exemptions-credits/property-tax-credits-exemptions"
+      "url": "https://law.justia.com/codes/north-dakota/2021/title-15/chapter-15-10/"
     },
     {
       "id": 36,
       "name": "Ohio",
       "abbreviation": "OH",
       "status": "Nothing",
-      "url": "https://tax.ohio.gov/static/government/bulletin23.pdf"
+      "url": "https://www.ohiohighered.org/ohio-war-orphans"
     },
     {
       "id": 37,
       "name": "Oklahoma",
       "abbreviation": "OK",
       "status": "Vet-and-Dep",
-      "url": "https://okpolicy.org/ad-valorem-exemptions-property-tax-exemptions/"
+      "url": "https://law.justia.com/codes/oklahoma/2021/title-72/section-72-302/"
     },
     {
       "id": 38,
       "name": "Oregon",
       "abbreviation": "OR",
       "status": "Dep-Only",
-      "url": "https://www.oregon.gov/DOR/forms/FormsPubs/veteran-spouse-exemption_310-676.pdf"
+      "url": "https://veterans.oregonstate.edu/state-benefits#536VeteransDependentTuitionProgram"
     },
     {
       "id": 39,
       "name": "Pennsylvania",
       "abbreviation": "PA",
       "status": "Dep-Only",
-      "url": "https://www.dmva.pa.gov/Veterans/Benefits/Pages/RETX.aspx"
+      "url": "https://www.pheaa.org/funding-opportunities/other-educational-aid/postsecondary-educational-gratuity.shtml"
     },
     {
       "id": 40,
       "name": "Rhode Island",
       "abbreviation": "RI",
       "status": "Vet-Only",
-      "url": "https://municipalfinance.ri.gov/sites/g/files/xkgbur546/files/documents/data/exemptions/Veterans-Senior-Exemptions-Report.pdf"
+      "url": "https://law.justia.com/codes/rhode-island/2021/title-30/chapter-30-30-1/section-30-30-1-1/"
     },
     {
       "id": 41,
       "name": "South Carolina",
       "abbreviation": "SC",
       "status": "Dep-Only",
-      "url": "https://dor.sc.gov/resources-site/publications/Publications/Property-Exemptions-for-Vets.pdf"
+      "url": "https://law.justia.com/codes/south-carolina/2020/title-59/chapter-111/section-59-111-20/"
     },
     {
       "id": 42,
       "name": "South Dakota",
       "abbreviation": "SD",
       "status": "Vet-and-Dep",
-      "url": "https://vetaffairs.sd.gov/benefits/State/Property%20Taxes.aspx"
+      "url": "https://vetaffairs.sd.gov/benefits/State/State%20Education%20Programs.aspx"
     },
     {
       "id": 43,
       "name": "Tennessee",
       "abbreviation": "TN",
       "status": "Nothing",
-      "url": "https://www.tn.gov/veteran/veteran-benefits/tn-state-benefits/homeowners/property-tax-relief-for-disabled-veterans.html"
+      "url": "https://www.tn.gov/veteran/veteran-education/education-benefits.html"
     },
     {
       "id": 44,
       "name": "Texas",
       "abbreviation": "TX",
       "status": "Vet-and-Dep",
-      "url": "https://comptroller.texas.gov/taxes/property-tax/exemptions/disabledvet-100-faq.php"
+      "url": "https://law.justia.com/codes/texas/2021/education-code/title-3/subtitle-a/chapter-54/subchapter-d/section-54-341/"
     },
     {
       "id": 45,
       "name": "Utah",
       "abbreviation": "UT",
       "status": "Vet-and-Dep",
-      "url": "https://veterans.utah.gov/wp-content/uploads/2021/10/benefitBookletRedesign2021.pdf"
+      "url": "https://le.utah.gov/xcode/Title53B/Chapter8E/53B-8e-S103.html"
     },
     {
       "id": 46,
       "name": "Vermont",
       "abbreviation": "VT",
       "status": "Dep-Only",
-      "url": "https://tax.vermont.gov/sites/tax/files/documents/FS-1003.pdf"
+      "url": "https://www.vsac.org/pay/student-aid-options/scholarships/military-servicemembers"
     },
     {
       "id": 47,
       "name": "Virginia",
       "abbreviation": "VA",
       "status": "Dep-Only",
-      "url": "https://www.dvs.virginia.gov/benefits/real-estate-tax-exemption"
+      "url": "https://law.lis.virginia.gov/vacode/title23.1/chapter6/section23.1-608/"
     },
     {
       "id": 48,
       "name": "Washington",
       "abbreviation": "WA",
       "status": "Vet-and-Dep",
-      "url": "https://www.dva.wa.gov/veterans-their-families/veterans-benefits/housing-resources/property-tax-relief"
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=28B.15.621"
     },
     {
       "id": 49,
       "name": "West Virginia",
       "abbreviation": "WV",
       "status": "Vet-and-Dep",
-      "url": "http://www.wvseniorservices.gov/Portals/0/pdf/HomesteadExemption.pdf"
+      "url": "https://law.justia.com/codes/west-virginia/2021/chapter-18b/article-10/section-18b-10-10/"
     },
     {
       "id": 50,
       "name": "Wisconsin",
       "abbreviation": "WI",
       "status": "Vet-and-Dep",
-      "url": "https://docs.legis.wisconsin.gov/statutes/statutes/71/i/07/6e"
+      "url": "https://law.justia.com/codes/wisconsin/2021/chapter-36/section-36-27/"
     },
     {
       "id": 51,
       "name": "Wyoming",
       "abbreviation": "WY",
       "status": "Vet-and-Dep",
-      "url": "https://wyo-prop-div.wyo.gov/tax-relief"
+      "url": "https://law.justia.com/codes/wyoming/2021/title-19/chapter-14/section-19-14-106/"
     }
   ]
 }
