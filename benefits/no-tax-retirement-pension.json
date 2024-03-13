@@ -54,7 +54,7 @@
       "id": 7,
       "name": "Connecticut",
       "abbreviation": "CT",
-      "status": "Expt-Inc-Or-Age",
+      "status": "taxed-on-all",
       "url": "https://www.cga.ct.gov/2022/rpt/pdf/2022-R-0099.pdf"
     },
     {
@@ -96,7 +96,7 @@
       "id": 13,
       "name": "Idaho",
       "abbreviation": "ID",
-      "status": "Exempt",
+      "status": "taxed-on-all",
       "url": "https://tax.idaho.gov/taxes/income-tax/individual-income/specific-guidance-for-individual-income-tax/specific-guidance-for-individuals-seniors-and-retirees/#:~:text=Idaho%20Source%20Income.-,Social%20Security%20benefits,aren%27t%20taxable%20in%20Idaho."
     },
     {
@@ -201,7 +201,7 @@
       "id": 28,
       "name": "Nebraska",
       "abbreviation": "NE",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "taxed-on-all",
       "url": "https://www.kiplinger.com/state-by-state-guide-taxes/nebraska#:~:text=Nebraska%20tax%20on%20retirement%20income,Retirement%20benefits%20are%20tax%2Dexempt."
     },
     {
