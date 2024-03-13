@@ -3,9 +3,9 @@
   "note": [
   ],
   "legend": [
-  "No-Tax-On-All",
-  "No-Tax-On-Pension",
-  "Taxed-On-All"
+    "No-Tax",
+    "No-Tax-On-Pension",
+    "Taxed-On-All"
   ],
   "states": [
     {
@@ -19,7 +19,7 @@
       "id": 2,
       "name": "Alaska",
       "abbreviation": "AK",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "No-Tax",
       "url": "https://smartasset.com/retirement/alaska-retirement-taxes#:~:text=Alaska%20has%20no%20state%20income,no%20estate%20or%20inheritance%20tax."
     },
     {
@@ -75,7 +75,7 @@
       "id": 10,
       "name": "Florida",
       "abbreviation": "FL",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "No-Tax",
       "url": "https://states.aarp.org/florida/state-taxes-guide"
     },
     {
@@ -103,7 +103,7 @@
       "id": 14,
       "name": "Illinois",
       "abbreviation": "IL",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "No-Tax",
       "url": "https://tax.illinois.gov/questionsandanswers/answer.99.html"
     },
     {
@@ -180,7 +180,7 @@
       "id": 25,
       "name": "Mississippi",
       "abbreviation": "MS",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "No-Tax",
       "url": "https://www.dor.ms.gov/individual/individual-income-tax-faqs#:~:text=No.,subject%20to%20Mississippi%27s%20income%20tax."
     },
     {
@@ -215,7 +215,7 @@
       "id": 30,
       "name": "New Hampshire",
       "abbreviation": "NH",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "No-Tax",
       "url": "https://smartasset.com/retirement/new-hampshire-retirement-taxes#:~:text=age%20of%2065.-,Is%20Social%20Security%20taxable%20in%20New%20Hampshire%3F,subject%20to%20federal%20taxes%2C%20however."
     },
     {
@@ -278,7 +278,7 @@
       "id": 39,
       "name": "Pennsylvania",
       "abbreviation": "PA",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "No-Tax",
       "url": "https://www.actsretirement.org/retirement-resources/resources-advice/finance-saving-money/tax-benefits-for-retirees/pennsylvania/#:~:text=Social%20Security%20income%20is%20not,rate%20in%20the%20United%20States."
     },
     {
@@ -299,21 +299,21 @@
       "id": 42,
       "name": "South Dakota",
       "abbreviation": "SD",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "No-Tax",
       "url": "https://smartasset.com/retirement/south-dakota-retirement-taxes#:~:text=are%20fairly%20cheap.-,Is%20Social%20Security%20taxable%20in%20South%20Dakota%3F,investment%20income%20and%20so%20on."
     },
     {
       "id": 43,
       "name": "Tennessee",
       "abbreviation": "TN",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "No-Tax",
       "url": "https://smartasset.com/retirement/tennessee-retirement-taxes"
     },
     {
       "id": 44,
       "name": "Texas",
       "abbreviation": "TX",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "No-Tax",
       "url": "https://smartasset.com/retirement/texas-retirement-taxes#:~:text=Is%20Texas%20tax%2Dfriendly%20for,the%20state%20level%20in%20Texas."
     },
     {
@@ -362,7 +362,7 @@
       "id": 51,
       "name": "Wyoming",
       "abbreviation": "WY",
-      "status": "No-tax-401k-IRA-pension",
+      "status": "No-Tax",
       "url": "https://wyo-prop-div.wyo.gov/tax-relief"
     }
   ]
