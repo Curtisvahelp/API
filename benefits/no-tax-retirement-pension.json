@@ -1,5 +1,5 @@
 {
-  "name": "States That Don't Tax 401l, IRA or pension",
+  "name": "States That Don't Tax 401K, IRA or pension",
   "note": [
   ],
   "legend": [
@@ -20,35 +20,35 @@
       "name": "Alaska",
       "abbreviation": "AK",
       "status": "No-Tax",
-      "url": "https://smartasset.com/retirement/alaska-retirement-taxes#:~:text=Alaska%20has%20no%20state%20income,no%20estate%20or%20inheritance%20tax."
+      "url": "https://smartasset.com/retirement/alaska-retirement-taxes"
     },
     {
       "id": 3,
       "name": "Arizona",
       "abbreviation": "AZ",
       "status": "taxed-on-all",
-      "url": "https://states.aarp.org/arizona/state-tax-guide#:~:text=Arizona%20doesn%27t%20tax%20Social,total%20income%20exceeds%20certain%20thresholds."
+      "url": "https://states.aarp.org/arizona/state-tax-guide"
     },
     {
       "id": 4,
       "name": "Arkansas",
       "abbreviation": "AR",
       "status": "taxed-on-all",
-      "url": "https://smartasset.com/retirement/arkansas-retirement-taxes#:~:text=Arkansas%20does%20not%20tax%20Social,taxes%20in%20Arkansas%20are%20high."
+      "url": "https://smartasset.com/retirement/arkansas-retirement-taxes"
     },
     {
       "id": 5,
       "name": "California",
       "abbreviation": "CA",
       "status": "taxed-on-all",
-      "url": "https://www.taxes.ca.gov/Income_Tax/specialind.html#:~:text=California%20does%20not%20tax%20social,partially%20taxable%20under%20federal%20law."
+      "url": "https://smartasset.com/retirement/california-retirement-taxes"
     },
     {
       "id": 6,
       "name": "Colorado",
       "abbreviation": "CO",
       "status": "taxed-on-all",
-      "url": "https://leg.colorado.gov/sites/default/files/documents/2021A/bills/fn/2021a_hb1311_r1.pdf"
+      "url": "https://www.copera.org/taxes-on-benefits#:~:text=Colorado%20Income%20Tax&text=Colorado%20law%20excludes%20from%20Colorado,exclusion%20amount%20for%20that%20year."
     },
     {
       "id": 7,
@@ -83,7 +83,7 @@
       "name": "Georgia",
       "abbreviation": "GA",
       "status": "taxed-on-all",
-      "url": "https://dor.georgia.gov/retirees-faq#:~:text=Does%20Georgia%20tax%20Social%20Security,schedule%201%20of%20Form%20500."
+      "url": "https://dor.georgia.gov/retirees-faq"
     },
     {
       "id": 12,
@@ -97,7 +97,7 @@
       "name": "Idaho",
       "abbreviation": "ID",
       "status": "taxed-on-all",
-      "url": "https://tax.idaho.gov/taxes/income-tax/individual-income/specific-guidance-for-individual-income-tax/specific-guidance-for-individuals-seniors-and-retirees/#:~:text=Idaho%20Source%20Income.-,Social%20Security%20benefits,aren%27t%20taxable%20in%20Idaho."
+      "url": "https://tax.idaho.gov/taxes/income-tax/individual-income/specific-guidance-for-individual-income-tax/specific-guidance-for-individuals-seniors-and-retirees/"
     },
     {
       "id": 14,
@@ -118,7 +118,7 @@
       "name": "Iowa",
       "abbreviation": "IA",
       "status": "taxed-on-all",
-      "url": "https://tax.iowa.gov/expanded-instructions/reportable-social-security-benefits-2022#:~:text=Iowa%20does%20not%20tax%20Social%20Security%20benefits."
+      "url": "https://tax.iowa.gov/retirement-income-tax-guidance"
     },
     {
       "id": 17,
@@ -132,7 +132,7 @@
       "name": "Kentucky",
       "abbreviation": "KY",
       "status": "taxed-on-all",
-      "url": "https://smartasset.com/retirement/kentucky-retirement-taxes#:~:text=Kentucky%20fully%20exempts%20all%20Social,also%20has%20an%20inheritance%20tax."
+      "url": "https://smartasset.com/retirement/kentucky-retirement-taxes"
     },
     {
       "id": 19,
@@ -146,7 +146,7 @@
       "name": "Maine",
       "abbreviation": "ME",
       "status": "taxed-on-all",
-      "url": "https://www.kiplinger.com/state-by-state-guide-taxes/maine#:~:text=Maine%20Tax%20on%20Retirement%20Benefits,increases%20to%20%2435%2C000%20in%202024."
+      "url": "https://www.kiplinger.com/state-by-state-guide-taxes/maine"
     },
     {
       "id": 21,
@@ -174,7 +174,7 @@
       "name": "Minnesota",
       "abbreviation": "MN",
       "status": "taxed-on-all",
-      "url": "https://www.house.mn.gov/hrd/issinfo/sstaxes.aspx"
+      "url": "https://smartasset.com/retirement/minnesota-retirement-taxes"
     },
     {
       "id": 25,
@@ -188,7 +188,7 @@
       "name": "Missouri",
       "abbreviation": "MO",
       "status": "taxed-on-all",
-      "url": "https://smartasset.com/retirement/missouri-retirement-taxes#:~:text=is%20above%20average.-,Is%20Social%20Security%20taxable%20in%20Missouri%3F,taxes%20on%20Social%20Security%20benefits."
+      "url": "https://smartasset.com/retirement/missouri-retirement-taxes"
     },
     {
       "id": 27,
@@ -202,21 +202,21 @@
       "name": "Nebraska",
       "abbreviation": "NE",
       "status": "taxed-on-all",
-      "url": "https://www.kiplinger.com/state-by-state-guide-taxes/nebraska#:~:text=Nebraska%20tax%20on%20retirement%20income,Retirement%20benefits%20are%20tax%2Dexempt."
+      "url": "https://www.kiplinger.com/state-by-state-guide-taxes/nebraska"
     },
     {
       "id": 29,
       "name": "Nevada",
       "abbreviation": "NV",
       "status": "taxed-on-all",
-      "url": "https://smartasset.com/retirement/nevada-retirement-taxes#:~:text=Nevada%20is%20very%20tax%2Dfriendly,state%20tax%20rate%20is%200.0%25."
+      "url": "https://smartasset.com/retirement/nevada-retirement-taxes"
     },
     {
       "id": 30,
       "name": "New Hampshire",
       "abbreviation": "NH",
       "status": "No-Tax",
-      "url": "https://smartasset.com/retirement/new-hampshire-retirement-taxes#:~:text=age%20of%2065.-,Is%20Social%20Security%20taxable%20in%20New%20Hampshire%3F,subject%20to%20federal%20taxes%2C%20however."
+      "url": "https://smartasset.com/retirement/new-hampshire-retirement-taxes"
     },
     {
       "id": 31,
@@ -230,28 +230,28 @@
       "name": "New Mexico",
       "abbreviation": "NM",
       "status": "taxed-on-all",
-      "url": "https://www.tax.newmexico.gov/social-security-income-tax-exemption/#:~:text=Beginning%20with%20tax%20year%202022,Mexico%20Personal%20Income%20Tax%20returns."
+      "url": "https://smartasset.com/retirement/new-mexico-retirement-taxes"
     },
     {
       "id": 33,
       "name": "New York",
       "abbreviation": "NY",
       "status": "taxed-on-all",
-      "url": "https://smartasset.com/retirement/new-york-retirement-taxes#:~:text=In%20New%20York%2C%20all%20Social,is%20deductible%20up%20to%20%2420%2C000."
+      "url": "https://smartasset.com/retirement/new-york-retirement-taxes."
     },
     {
       "id": 34,
       "name": "North Carolina",
       "abbreviation": "NC",
       "status": "taxed-on-all",
-      "url": "https://www.ncdor.gov/taxes-forms/individual-income-tax/social-security-and-railroad-retirement-benefits"
+      "url": "https://www.myncretirement.com/retirees/income-tax-withholding#IsmyretirementbenefitsubjecttoNorthCarolinaincometax-625"
     },
     {
       "id": 35,
       "name": "North Dakota",
       "abbreviation": "ND",
       "status": "taxed-on-all",
-      "url": "https://smartasset.com/retirement/north-dakota-retirement-taxes#:~:text=median%20home%20values.-,Is%20Social%20Security%20taxable%20in%20North%20Dakota%3F,since%20the%202021%20tax%20year."
+      "url": "https://smartasset.com/retirement/north-dakota-retirement-taxes"
     },
     {
       "id": 36,
@@ -265,7 +265,7 @@
       "name": "Oklahoma",
       "abbreviation": "OK",
       "status": "taxed-on-all",
-      "url": "https://www.okdrs.gov/guide/social-security-income-when-it-taxable-individual"
+      "url": "https://smartasset.com/retirement/oklahoma-retirement-taxes"
     },
     {
       "id": 38,
@@ -279,7 +279,7 @@
       "name": "Pennsylvania",
       "abbreviation": "PA",
       "status": "No-Tax",
-      "url": "https://www.actsretirement.org/retirement-resources/resources-advice/finance-saving-money/tax-benefits-for-retirees/pennsylvania/#:~:text=Social%20Security%20income%20is%20not,rate%20in%20the%20United%20States."
+      "url": "https://www.actsretirement.org/retirement-resources/resources-advice/finance-saving-money/tax-benefits-for-retirees/pennsylvania/"
     },
     {
       "id": 40,
@@ -300,7 +300,7 @@
       "name": "South Dakota",
       "abbreviation": "SD",
       "status": "No-Tax",
-      "url": "https://smartasset.com/retirement/south-dakota-retirement-taxes#:~:text=are%20fairly%20cheap.-,Is%20Social%20Security%20taxable%20in%20South%20Dakota%3F,investment%20income%20and%20so%20on."
+      "url": "https://smartasset.com/retirement/south-dakota-retirement-taxes"
     },
     {
       "id": 43,
@@ -328,14 +328,14 @@
       "name": "Vermont",
       "abbreviation": "VT",
       "status": "taxed-on-all",
-      "url": "https://tax.vermont.gov/individuals/income-tax-returns/social-security-exemption"
+      "url": "https://tax.vermont.gov/individuals/seniors-and-retirees"
     },
     {
       "id": 47,
       "name": "Virginia",
       "abbreviation": "VA",
       "status": "taxed-on-all",
-      "url": "https://www.tax.virginia.gov/news/virginia-taxes-and-your-retirement#:~:text=Virginia%20does%20not%20tax%20Social,to%20Tier%201%20Railroad%20Retirement."
+      "url": "https://www.tax.virginia.gov/news/virginia-taxes-and-your-retirement"
     },
     {
       "id": 48,
@@ -356,7 +356,7 @@
       "name": "Wisconsin",
       "abbreviation": "WI",
       "status": "taxed-on-all",
-      "url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-retired.aspx#:~:text=Wisconsin%20does%20not%20tax%20social%20security%20benefits."
+      "url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-retired.aspx"
     },
     {
       "id": 51,
